@@ -1,4 +1,6 @@
-﻿namespace dag2;
+﻿using System.Reflection;
+
+namespace dag2;
 
 class Program
 {
@@ -41,6 +43,61 @@ class Program
         string? navn = Console.ReadLine();
 
         Console.WriteLine("God Morgen " + navn);
+
+        //oppgave 3
+
+        Dictionary<int, string> myDictionary = new Dictionary<int, string>();
+
+        myDictionary.Add(37, "Alex");
+        myDictionary.Add(23, "Frank");
+        myDictionary.Add(32, "Ole Johnny");
+
+        foreach (var item in myDictionary)
+        {
+            Console.WriteLine("Key " + item.Key + " Value " + item.Value);
+        }
+
+// 
+        int AddNumbers(int a, int b)
+        {
+            return a + b;
+        }
+
+        int result = AddNumbers(5, 10);
+        Console.WriteLine("The sum is: " + result);
+
+        // ----------------------------------
+
+        
+        Console.WriteLine("Enter username:");
+
+        string userName = Console.ReadLine();
+
+        Console.WriteLine("Username is: " + userName);
+
+        Console.WriteLine("Enter Age:");
+
+        string userAge = Console.ReadLine();
+
+        Console.WriteLine("age is: " + userAge);
+
+        //----------------------------------------------
+        
+        Console.WriteLine("enter VISA card number:");
+
+        string cardNumber = Console.ReadLine();
+
+        Console.WriteLine("cardnumber is: " + cardNumber);
+
+        Console.WriteLine("Enter CVV2:");
+
+        string cardCvv = Console.ReadLine();
+
+        Console.WriteLine("card CVV is: " + cardCvv);
+
+
+
+
 
 
   
