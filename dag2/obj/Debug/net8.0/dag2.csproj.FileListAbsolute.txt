@@ -1,0 +1,15 @@
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.AssemblyInfoInputs.cache
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.AssemblyInfo.cs
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.csproj.CoreCompileInputs.cache
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.sourcelink.json
+C:\Users\busch\Documents\projects\C#\dag2\bin\Debug\net8.0\dag2.exe
+C:\Users\busch\Documents\projects\C#\dag2\bin\Debug\net8.0\dag2.deps.json
+C:\Users\busch\Documents\projects\C#\dag2\bin\Debug\net8.0\dag2.runtimeconfig.json
+C:\Users\busch\Documents\projects\C#\dag2\bin\Debug\net8.0\dag2.dll
+C:\Users\busch\Documents\projects\C#\dag2\bin\Debug\net8.0\dag2.pdb
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.dll
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\refint\dag2.dll
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.pdb
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\dag2.genruntimeconfig.cache
+C:\Users\busch\Documents\projects\C#\dag2\obj\Debug\net8.0\ref\dag2.dll

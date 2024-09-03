@@ -1,0 +1,15 @@
+C:\Users\busch\Documents\projects\C#\C# øve\bin\Debug\net8.0\C# øve.exe
+C:\Users\busch\Documents\projects\C#\C# øve\bin\Debug\net8.0\C# øve.deps.json
+C:\Users\busch\Documents\projects\C#\C# øve\bin\Debug\net8.0\C# øve.runtimeconfig.json
+C:\Users\busch\Documents\projects\C#\C# øve\bin\Debug\net8.0\C# øve.dll
+C:\Users\busch\Documents\projects\C#\C# øve\bin\Debug\net8.0\C# øve.pdb
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.AssemblyInfoInputs.cache
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.AssemblyInfo.cs
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.csproj.CoreCompileInputs.cache
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.sourcelink.json
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.dll
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\refint\C# øve.dll
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.pdb
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\C# øve.genruntimeconfig.cache
+C:\Users\busch\Documents\projects\C#\C# øve\obj\Debug\net8.0\ref\C# øve.dll

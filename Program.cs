@@ -17,15 +17,12 @@ class Program
         Console.WriteLine("Hei, hva heter du?");
         //string variabel, nav holder på verdien vi gir.
         string? navn = Console.ReadLine();
-        Console.WriteLine("Hei"  + navn);
+        Console.WriteLine("Hei "  + navn);
 
         //char typen, tar en bestemt bokstav
         char a = '@';
         
         Console.WriteLine(a);
-
-        
-    
 
     }
 }
