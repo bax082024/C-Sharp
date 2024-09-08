@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\C-Sharp.csproj",
-      "projectName": "C-Sharp",
-      "projectPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp.csproj",
+      "projectUniqueName": "C:\\Users\\busch\\Documents\\projects\\C#\\C# øve\\C# øve.csproj",
+      "projectName": "C# øve",
+      "projectPath": "C:\\Users\\busch\\Documents\\projects\\C#\\C# øve\\C# øve.csproj",
       "packagesPath": "C:\\Users\\busch\\.nuget\\packages\\",
-      "outputPath": "C:\\HjemmeKode\\C-Sharp\\obj\\",
+      "outputPath": "C:\\Users\\busch\\Documents\\projects\\C#\\C# øve\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busch\\AppData\\Roaming\\NuGet\\NuGet.Config"
