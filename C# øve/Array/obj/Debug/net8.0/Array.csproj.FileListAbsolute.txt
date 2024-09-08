@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\bin\Debug\net8.0\Array.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\bin\Debug\net8.0\Array.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\bin\Debug\net8.0\Array.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\bin\Debug\net8.0\Array.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\refint\Array.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Array\obj\Debug\net8.0\ref\Array.dll
