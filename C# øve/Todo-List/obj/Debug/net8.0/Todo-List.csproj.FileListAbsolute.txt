@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\bin\Debug\net8.0\Todo-List.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\bin\Debug\net8.0\Todo-List.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\bin\Debug\net8.0\Todo-List.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\bin\Debug\net8.0\Todo-List.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\bin\Debug\net8.0\Todo-List.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\refint\Todo-List.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\Todo-List.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Todo-List\obj\Debug\net8.0\ref\Todo-List.dll

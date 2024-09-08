@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
