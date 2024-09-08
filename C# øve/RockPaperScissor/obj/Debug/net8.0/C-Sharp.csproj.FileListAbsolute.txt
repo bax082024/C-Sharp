@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\bin\Debug\net8.0\C-Sharp.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\bin\Debug\net8.0\C-Sharp.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\bin\Debug\net8.0\C-Sharp.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\bin\Debug\net8.0\C-Sharp.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\bin\Debug\net8.0\C-Sharp.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\refint\C-Sharp.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\C-Sharp.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\RockPaperScissor\obj\Debug\net8.0\ref\C-Sharp.dll
