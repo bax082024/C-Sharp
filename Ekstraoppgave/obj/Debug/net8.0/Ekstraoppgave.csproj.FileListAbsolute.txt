@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\bin\Debug\net8.0\Ekstraoppgave.exe
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\bin\Debug\net8.0\Ekstraoppgave.deps.json
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\bin\Debug\net8.0\Ekstraoppgave.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\bin\Debug\net8.0\Ekstraoppgave.dll
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\bin\Debug\net8.0\Ekstraoppgave.pdb
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.sourcelink.json
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.dll
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\refint\Ekstraoppgave.dll
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.pdb
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\Ekstraoppgave.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\Ekstraoppgave\obj\Debug\net8.0\ref\Ekstraoppgave.dll
