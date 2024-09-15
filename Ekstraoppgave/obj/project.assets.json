@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\Ekstraoppgave\\Ekstraoppgave.csproj",
+      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\Ekstraoppgave\\Ekstraoppgave.csproj",
       "projectName": "Ekstraoppgave",
-      "projectPath": "C:\\HjemmeKode\\C-Sharp\\Ekstraoppgave\\Ekstraoppgave.csproj",
+      "projectPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\Ekstraoppgave\\Ekstraoppgave.csproj",
       "packagesPath": "C:\\Users\\busch\\.nuget\\packages\\",
-      "outputPath": "C:\\HjemmeKode\\C-Sharp\\Ekstraoppgave\\obj\\",
+      "outputPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\Ekstraoppgave\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busch\\AppData\\Roaming\\NuGet\\NuGet.Config"

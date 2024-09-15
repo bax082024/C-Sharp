@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\busch\\Documents\\projects\\C#\\dag2\\dag2.csproj",
+      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\dag2\\dag2.csproj",
       "projectName": "dag2",
-      "projectPath": "C:\\Users\\busch\\Documents\\projects\\C#\\dag2\\dag2.csproj",
+      "projectPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\dag2\\dag2.csproj",
       "packagesPath": "C:\\Users\\busch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\busch\\Documents\\projects\\C#\\dag2\\obj\\",
+      "outputPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\dag2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busch\\AppData\\Roaming\\NuGet\\NuGet.Config"

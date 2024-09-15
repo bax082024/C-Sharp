@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\bin\Debug\net8.0\C#Basic.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\bin\Debug\net8.0\C#Basic.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\bin\Debug\net8.0\C#Basic.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\bin\Debug\net8.0\C#Basic.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\bin\Debug\net8.0\C#Basic.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\refint\C#Basic.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\C#Basic.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\C#Basic\obj\Debug\net8.0\ref\C#Basic.dll
