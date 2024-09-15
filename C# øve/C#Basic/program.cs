@@ -38,7 +38,7 @@ class Program
 
         */
 
-        string number = "1234";
+      
 
       
         

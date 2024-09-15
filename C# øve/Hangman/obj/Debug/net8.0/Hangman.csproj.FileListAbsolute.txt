@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\bin\Debug\net8.0\Hangman.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\bin\Debug\net8.0\Hangman.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\bin\Debug\net8.0\Hangman.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\bin\Debug\net8.0\Hangman.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\bin\Debug\net8.0\Hangman.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\refint\Hangman.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Hangman\obj\Debug\net8.0\ref\Hangman.dll
