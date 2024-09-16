@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oppgaver C# Klasser, Interfaces og metoder/1.0.0": {
+        "runtime": {
+          "Oppgaver C# Klasser, Interfaces og metoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oppgaver C# Klasser, Interfaces og metoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

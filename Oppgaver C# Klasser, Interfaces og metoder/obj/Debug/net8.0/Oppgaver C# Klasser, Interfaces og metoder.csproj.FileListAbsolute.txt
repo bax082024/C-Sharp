@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\bin\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\refint\Oppgaver C# Klasser, Interfaces og metoder.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\Oppgaver C# Klasser, Interfaces og metoder.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Oppgaver C# Klasser, Interfaces og metoder\obj\Debug\net8.0\ref\Oppgaver C# Klasser, Interfaces og metoder.dll
