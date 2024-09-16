@@ -52,7 +52,7 @@ class Program
 
      
         
-     Console.WriteLine("Thank you for the visit");
+     Console.WriteLine("By using this calculator, you agreed to pay the maker 100$");
     }
     
 }
