@@ -17,6 +17,11 @@ public class Calculator : iCalculator
 
     public double Divide(double a, double b)
     {
+        if(b == 0)
+        {
+            Console.WriteLine("Invalid Number");
+            return 0;
+        }
         return a / b;
     }
 }

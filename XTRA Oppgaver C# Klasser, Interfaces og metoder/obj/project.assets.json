@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\Oppgaver C# Klasser, Interfaces og metoder\\Oppgaver C# Klasser, Interfaces og metoder.csproj",
+      "projectUniqueName": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\XTRA Oppgaver C# Klasser, Interfaces og metoder\\Oppgaver C# Klasser, Interfaces og metoder.csproj",
       "projectName": "Oppgaver C# Klasser, Interfaces og metoder",
-      "projectPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\Oppgaver C# Klasser, Interfaces og metoder\\Oppgaver C# Klasser, Interfaces og metoder.csproj",
+      "projectPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\XTRA Oppgaver C# Klasser, Interfaces og metoder\\Oppgaver C# Klasser, Interfaces og metoder.csproj",
       "packagesPath": "C:\\Users\\busch\\.nuget\\packages\\",
-      "outputPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\Oppgaver C# Klasser, Interfaces og metoder\\obj\\",
+      "outputPath": "C:\\HjemmeKode\\C-Sharp\\C-Sharp\\XTRA Oppgaver C# Klasser, Interfaces og metoder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busch\\AppData\\Roaming\\NuGet\\NuGet.Config"
