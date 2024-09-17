@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\bin\Debug\net8.0\Barista.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\bin\Debug\net8.0\Barista.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\bin\Debug\net8.0\Barista.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\bin\Debug\net8.0\Barista.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\bin\Debug\net8.0\Barista.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\refint\Barista.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\Barista.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\C# øve\Barista\obj\Debug\net8.0\ref\Barista.dll
