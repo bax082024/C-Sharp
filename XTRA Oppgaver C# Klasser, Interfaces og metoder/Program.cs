@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // fine kalkulator
         Console.WriteLine("Welcome to my calculator");        
         iCalculator calculator = new Calculator();
 
