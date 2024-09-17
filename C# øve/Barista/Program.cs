@@ -38,6 +38,13 @@
             Console.WriteLine("What would you like to order? (type the number)");
             string finalOrder = Console.ReadLine();
 
+            if(finalOrder.ToLower() == "1")
+            {
+                Console.WriteLine("How many would you like?");
+                Console.ReadLine();
+            }
+           
+
         }
     }
 }
