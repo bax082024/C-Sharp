@@ -41,8 +41,13 @@
             if(finalOrder.ToLower() == "1")
             {
                 Console.WriteLine("How many would you like?");
-                Console.ReadLine();
+                string finalOrderCount = Console.ReadLine();
+
             }
+            
+            
+
+        
            
 
         }
