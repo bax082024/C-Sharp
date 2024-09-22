@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c49411e71594cdae8775f37baef7a0cb9c6b26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe8c6c1407b4437cc636bcc4d00a8ce9f9a66fab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

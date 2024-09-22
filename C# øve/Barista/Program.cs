@@ -38,11 +38,28 @@
             Console.WriteLine("What would you like to order? (type the number)");
             string finalOrder = Console.ReadLine();
 
-            if(finalOrder.ToLower() == "1")
+            switch (operation1)
             {
-                Console.WriteLine("How many would you like?");
-                string finalOrderCount = Console.ReadLine();
+                case '1':
+                Console.WriteLine("Result:");
+                break;
 
+                case '2':
+                Console.WriteLine("Result:");
+                break;
+
+                case '3':
+                Console.WriteLine("Result:");
+                break;
+
+                case '4':
+                Console.WriteLine("Result:");
+                break;
+
+                case '5':
+                Console.WriteLine("Result:");
+                break;
+                
             }
             
             
