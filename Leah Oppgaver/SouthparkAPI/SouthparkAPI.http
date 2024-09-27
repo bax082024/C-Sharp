@@ -1,0 +1,6 @@
+@SouthparkAPI_HostAddress = http://localhost:5185
+
+GET {{SouthparkAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
