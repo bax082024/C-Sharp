@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SouthparkAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0a637e35fc201c2087bed605438fee38f61f88f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02b41586ecd9d5a05328a43a29c823acd88dc402")]
 [assembly: System.Reflection.AssemblyProductAttribute("SouthparkAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SouthparkAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
